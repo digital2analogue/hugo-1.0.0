@@ -18,6 +18,6 @@ title = "River Romney"
   headline = "Welcome to my portfolio."
   bio = "Welcome to my portfolio."
   links = [
-    { x-twitter = "https://twitter.com/burufugu" },
+    { instagram = "https://www.instagram.com/riverromney" },
     { github = "https://github.com/nunocoracao/blowfish" },]
 
