@@ -1,0 +1,6 @@
+- id: project-1
+  title: "Sample Project"
+  description: "A short description of the sample project. Replace with your own projects."
+  url: "https://example.org/project-1"
+  repo: "https://github.com/your/repo"
+  date: "2025-12-01"

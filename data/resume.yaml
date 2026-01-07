@@ -1,0 +1,15 @@
+name: "Your Name"
+role: "Frontend Developer"
+email: "you@example.org"
+location: "City, Country"
+skills:
+  - HTML
+  - CSS
+  - JavaScript
+  - Hugo
+experience:
+  - company: "Example Co"
+    role: "Web Developer"
+    start: "2022-01"
+    end: "Present"
+    summary: "Worked on website and frontend features."

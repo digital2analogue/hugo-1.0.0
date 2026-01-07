@@ -1,0 +1,16 @@
+<button id="theme-switcher" aria-label="Toggle theme">Toggle theme</button>
+<script>
+(function(){
+  try{
+    const btn = document.getElementById('theme-switcher');
+    const stored = localStorage.getItem('theme');
+    if(stored) document.documentElement.setAttribute('data-theme', stored);
+    btn.addEventListener('click', ()=>{
+      const cur = document.documentElement.getAttribute('data-theme') || 'light';
+      const next = cur === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    });
+  }catch(e){console.warn(e)}
+})();
+</script>
