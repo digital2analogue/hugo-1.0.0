@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project Site on River Romney</title>
-    <link>https://localhost:1313/tags/project-site/</link>
+    <link>http://localhost:1313/tags/project-site/</link>
     <description>Recent content in Project Site on River Romney</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
-    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
-    <copyright>© 2026 Blowfish</copyright>
-    <atom:link href="https://localhost:1313/tags/project-site/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>contact@riverromney.com (River)</managingEditor>
+    <webMaster>contact@riverromney.com (River)</webMaster>
+    <copyright>© 2026 River</copyright>
+    <atom:link href="http://localhost:1313/tags/project-site/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>m3upt.com</title>
-      <link>https://localhost:1313/users/4d4fb24dca11a144122fa0bb831d9d03/</link>
+      <link>http://localhost:1313/users/4d4fb24dca11a144122fa0bb831d9d03/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>https://localhost:1313/users/4d4fb24dca11a144122fa0bb831d9d03/</guid>
+      <author>contact@riverromney.com (River)</author>
+      <guid>http://localhost:1313/users/4d4fb24dca11a144122fa0bb831d9d03/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/users/4d4fb24dca11a144122fa0bb831d9d03/feature.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/4d4fb24dca11a144122fa0bb831d9d03/feature.webp" />
     </item>
     
     <item>
       <title>ncine.github.io</title>
-      <link>https://localhost:1313/users/8f0822721042bca88707da31b1c241e3/</link>
+      <link>http://localhost:1313/users/8f0822721042bca88707da31b1c241e3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>https://localhost:1313/users/8f0822721042bca88707da31b1c241e3/</guid>
+      <author>contact@riverromney.com (River)</author>
+      <guid>http://localhost:1313/users/8f0822721042bca88707da31b1c241e3/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/users/8f0822721042bca88707da31b1c241e3/feature.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/8f0822721042bca88707da31b1c241e3/feature.webp" />
     </item>
     
   </channel>
