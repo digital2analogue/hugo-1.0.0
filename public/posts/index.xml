@@ -6,16 +6,16 @@
     <description>Recent content in Posts on River Romney</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>contact@riverromney.com (River)</managingEditor>
-    <webMaster>contact@riverromney.com (River)</webMaster>
-    <copyright>© 2026 River</copyright>
+    <managingEditor>contact@riverromney.com (River Romney)</managingEditor>
+    <webMaster>contact@riverromney.com (River Romney)</webMaster>
+    <copyright>© 2026 River Romney</copyright>
     <lastBuildDate>Tue, 06 Jan 2026 12:30:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello World</title>
       <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Tue, 06 Jan 2026 12:30:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/posts/hello-world/</guid>
       <description>&lt;p&gt;Welcome to your new Hugo site using the Blowfish theme.&lt;/p&gt;&#xA;&lt;p&gt;This is a working sample post.&lt;/p&gt;</description>
       
@@ -25,7 +25,7 @@
       <title>Welcome - Sample Post</title>
       <link>http://localhost:1313/posts/sample-post/</link>
       <pubDate>Tue, 06 Jan 2026 12:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/posts/sample-post/</guid>
       <description>&lt;p&gt;This is a sample post to verify the Blowfish theme is working.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Built with Hugo and the Blowfish theme.&lt;/li&gt;&#xA;&lt;li&gt;Replace this content with your own posts.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
       

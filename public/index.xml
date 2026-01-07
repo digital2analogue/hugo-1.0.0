@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to Blowfish! :tada: on River Romney</title>
+    <title>Welcome to River Romney&#39;s Portfolio on River Romney</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Welcome to Blowfish! :tada: on River Romney</description>
+    <description>Recent content in Welcome to River Romney&#39;s Portfolio on River Romney</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>contact@riverromney.com (River)</managingEditor>
-    <webMaster>contact@riverromney.com (River)</webMaster>
-    <copyright>© 2026 River</copyright>
+    <managingEditor>contact@riverromney.com (River Romney)</managingEditor>
+    <webMaster>contact@riverromney.com (River Romney)</webMaster>
+    <copyright>© 2026 River Romney</copyright>
     <lastBuildDate>Tue, 06 Jan 2026 12:30:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>n9o.xyz</title>
       <link>http://localhost:1313/users/e8b2eb823290677fbba3390d5cef2c35/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/e8b2eb823290677fbba3390d5cef2c35/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/e8b2eb823290677fbba3390d5cef2c35/feature.webp" />
@@ -25,7 +25,7 @@
       <title>Welcome to Blowfish</title>
       <link>http://localhost:1313/docs/welcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/docs/welcome/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;&#xD;&#xA;  Blowfish is packed with tons of features.&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xA;&lt;p&gt;The original aim of Blowfish was to develop a theme that was simple and lightweight. The theme is a fork of &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/nunocoracao/congo&#34;&gt;Congo&lt;/a&gt; and expands its initial vision.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/welcome/featured.svg" />
@@ -35,7 +35,7 @@
       <title>Installation</title>
       <link>http://localhost:1313/docs/installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/docs/installation/</guid>
       <description>&lt;p&gt;Simply follow the standard Hugo &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;  target=&#34;_blank&#34;&gt;Quick Start&lt;/a&gt; procedure to get up and running quickly.&lt;/p&gt;&#xA;&lt;p&gt;Detailed installation instructions can be found below. Instructions for &lt;a href=&#34;http://localhost:1313/docs/installation/#installing-updates&#34; &gt;updating the theme&lt;/a&gt; are also available.&lt;/p&gt;&#xA;&#xD;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Installation&#xD;&#xA;    &lt;div id=&#34;installation&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#installation&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;These instructions will get you up and running using Hugo and Blowfish from a completely blank state. Most of the dependencies mentioned in this guide can be installed using the package manager of choice for your platform.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/installation/featured.svg" />
@@ -45,7 +45,7 @@
       <title>madoke.org</title>
       <link>http://localhost:1313/users/96d3e57dcc931de55cc23a825d40be2c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/96d3e57dcc931de55cc23a825d40be2c/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/96d3e57dcc931de55cc23a825d40be2c/feature.webp" />
@@ -55,7 +55,7 @@
       <title>code-chimp.com</title>
       <link>http://localhost:1313/users/4bc0917e04c4859cedb32a48bff27846/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/4bc0917e04c4859cedb32a48bff27846/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/4bc0917e04c4859cedb32a48bff27846/feature.webp" />
@@ -65,7 +65,7 @@
       <title>Getting Started</title>
       <link>http://localhost:1313/docs/getting-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/docs/getting-started/</guid>
       <description>&lt;div&#xD;&#xA;  &#xD;&#xA;    class=&#34;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&#34;&#xD;&#xA;  &#xD;&#xA;  &gt;&#xD;&#xA;  &lt;span&#xD;&#xA;    &#xD;&#xA;      class=&#34;text-primary-400 pe-3 flex items-center&#34;&#xD;&#xA;    &#xD;&#xA;    &gt;&#xD;&#xA;    &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z&#34;/&gt;&lt;/svg&gt;&#xD;&#xA;&lt;/span&gt;&#xD;&#xA;  &lt;/span&gt;&#xD;&#xA;&#xD;&#xA;  &lt;span&#xD;&#xA;    &#xD;&#xA;      class=&#34;dark:text-neutral-300&#34;&#xD;&#xA;    &#xD;&#xA;    &gt;This section assumes you have already &lt;a href=&#34;http://localhost:1313/docs/installation/&#34;  target=&#34;_blank&#34;&gt;installed the Blowfish theme&lt;/a&gt;.&lt;/span&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xA;&lt;/br&gt;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div&#xD;&#xA;  &#xD;&#xA;    class=&#34;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&#34;&#xD;&#xA;  &#xD;&#xA;  &gt;&#xD;&#xA;  &lt;span&#xD;&#xA;    &#xD;&#xA;      class=&#34;text-primary-400 pe-3 flex items-center&#34;&#xD;&#xA;    &#xD;&#xA;    &gt;&#xD;&#xA;    &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&#xD;&#xA;&lt;path fill=&#34;currentColor&#34;  d=&#34;M159.3 5.4c7.8-7.3 19.9-7.2 27.7 .1c27.6 25.9 53.5 53.8 77.7 84c11-14.4 23.5-30.1 37-42.9c7.9-7.4 20.1-7.4 28 .1c34.6 33 63.9 76.6 84.5 118c20.3 40.8 33.8 82.5 33.8 111.9C448 404.2 348.2 512 224 512C98.4 512 0 404.1 0 276.5c0-38.4 17.8-85.3 45.4-131.7C73.3 97.7 112.7 48.6 159.3 5.4zM225.7 416c25.3 0 47.7-7 68.8-21c42.1-29.4 53.4-88.2 28.1-134.4c-2.8-5.6-5.6-11.2-9.8-16.8l-50.6 58.8s-81.4-103.6-87.1-110.6C133.1 243.8 112 273.2 112 306.8C112 375.4 162.6 416 225.7 416z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;&#xD;&#xA;  &lt;/span&gt;&#xD;&#xA;&#xD;&#xA;  &lt;span&#xD;&#xA;    &#xD;&#xA;      class=&#34;dark:text-neutral-300&#34;&#xD;&#xA;    &#xD;&#xA;    &gt;&lt;p&gt;We just launched a CLI tool to help you get started with Blowfish. It will help you with installation and configuration. Install the CLI tool globally using:&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/getting-started/featured.svg" />
@@ -75,7 +75,7 @@
       <title>Configuration</title>
       <link>http://localhost:1313/docs/configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/docs/configuration/</guid>
       <description>&lt;p&gt;Blowfish is a highly customisable theme and uses some of the latest Hugo features to simplify how it is configured.&lt;/p&gt;&#xA;&lt;p&gt;The theme ships with a default configuration that gets you up and running with a basic blog or static website.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/configuration/featured.svg" />
@@ -85,7 +85,7 @@
       <title>mucahitkurtlar.github.io</title>
       <link>http://localhost:1313/users/9d028495840ad385e6cb3ccf051dca22/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/9d028495840ad385e6cb3ccf051dca22/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/9d028495840ad385e6cb3ccf051dca22/feature.webp" />
@@ -95,7 +95,7 @@
       <title>brendanwallace.github.io</title>
       <link>http://localhost:1313/users/64ef36564d497eed256b9f4c56b1184e/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/64ef36564d497eed256b9f4c56b1184e/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/64ef36564d497eed256b9f4c56b1184e/feature.webp" />
@@ -105,7 +105,7 @@
       <title>Homepage Layout</title>
       <link>http://localhost:1313/docs/homepage-layout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/docs/homepage-layout/</guid>
       <description>&lt;p&gt;Blowfish provides a fully flexible homepage layout. There are two main templates to choose from with additional settings to adjust the design. Alternatively, you can also provide your own template and have complete control over the homepage content.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/homepage-layout/featured.svg" />
@@ -115,7 +115,7 @@
       <title>pmnxis.github.io</title>
       <link>http://localhost:1313/users/5bf94b5c1e0c4a40d81816df85e1444f/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/5bf94b5c1e0c4a40d81816df85e1444f/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/5bf94b5c1e0c4a40d81816df85e1444f/feature.webp" />
@@ -125,7 +125,7 @@
       <title>Shortcodes</title>
       <link>http://localhost:1313/docs/shortcodes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/docs/shortcodes/</guid>
       <description>&lt;p&gt;In addition to all the &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/&#34;  target=&#34;_blank&#34;&gt;default Hugo shortcodes&lt;/a&gt;, Blowfish adds a few extras for additional functionality.&lt;/p&gt;&#xA;&#xD;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Alert&#xD;&#xA;    &lt;div id=&#34;alert&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#alert&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;&lt;code&gt;alert&lt;/code&gt; outputs its contents as a stylised message box within your article. It&amp;rsquo;s useful for drawing attention to important information that you don&amp;rsquo;t want the reader to miss.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/shortcodes/featured.svg" />
@@ -135,7 +135,7 @@
       <title>ciicadalab.github.io</title>
       <link>http://localhost:1313/users/ef51c7b9654a4f2d13525eb80ee46cdf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/ef51c7b9654a4f2d13525eb80ee46cdf/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/ef51c7b9654a4f2d13525eb80ee46cdf/feature.webp" />
@@ -145,7 +145,7 @@
       <title>Front Matter</title>
       <link>http://localhost:1313/docs/front-matter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/docs/front-matter/</guid>
       <description>&lt;p&gt;In addition to the &lt;a href=&#34;https://gohugo.io/content-management/front-matter/#front-matter-variables&#34;  target=&#34;_blank&#34;&gt;default Hugo front matter parameters&lt;/a&gt;, Blowfish adds a number of additional options to customise the presentation of individual articles. All the available theme front matter parameters are listed below.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/front-matter/featured.svg" />
@@ -155,7 +155,7 @@
       <title>georgiancodeclub.github.io</title>
       <link>http://localhost:1313/users/25036bf87aa99ef82e09089a1ddbb9eb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/25036bf87aa99ef82e09089a1ddbb9eb/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/25036bf87aa99ef82e09089a1ddbb9eb/feature.webp" />
@@ -165,7 +165,7 @@
       <title>Multiple Authors</title>
       <link>http://localhost:1313/docs/multi-author/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/docs/multi-author/</guid>
       <description>&lt;p&gt;Some websites have more than one author contributing with content and therefore require more than a single default author across the entire website. For those use-cases, Blowfish allows users to extend the list of authors using the multiple authors feature.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/multi-author/featured.svg" />
@@ -175,7 +175,7 @@
       <title>fahru.my.id</title>
       <link>http://localhost:1313/users/5440c85ea880d93157088032515962d3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/5440c85ea880d93157088032515962d3/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/5440c85ea880d93157088032515962d3/feature.webp" />
@@ -185,7 +185,7 @@
       <title>Partials</title>
       <link>http://localhost:1313/docs/partials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/docs/partials/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Analytics&#xD;&#xA;    &lt;div id=&#34;analytics&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#analytics&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Blowfish provides built-in support for Fathom Analytics, Google Analytics and Umami Analytics. Fathom is a paid alternative to Google Analytics that respects user privacy.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/partials/featured.svg" />
@@ -195,7 +195,7 @@
       <title>loisvelasco.is-a.dev</title>
       <link>http://localhost:1313/users/6c20c1af90023ed60919801cfba0f08f/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/6c20c1af90023ed60919801cfba0f08f/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/6c20c1af90023ed60919801cfba0f08f/feature.webp" />
@@ -205,7 +205,7 @@
       <title>Thumbnails</title>
       <link>http://localhost:1313/docs/thumbnails/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/docs/thumbnails/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Thumbnails&#xD;&#xA;    &lt;div id=&#34;thumbnails&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#thumbnails&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Blowfish was enhanced in order to make it easy to add visual support to your posts. To do so, you just need to place an image file (almost all formats are supported but we recommend &lt;code&gt;.png&lt;/code&gt; or &lt;code&gt;.jpg&lt;/code&gt;) that starts with &lt;code&gt;feature*&lt;/code&gt; inside your article&amp;rsquo;s main directory, as shown in the example below.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/thumbnails/featured.svg" />
@@ -215,7 +215,7 @@
       <title>Content Examples</title>
       <link>http://localhost:1313/docs/content-examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/docs/content-examples/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;ve been reading the documentation in order, you should now know about all the features and configurations available in Blowfish. This page is designed to pull everything together and offer some worked examples that you might like to use in your Hugo project.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/content-examples/featured.svg" />
@@ -225,7 +225,7 @@
       <title>insidemordecai.com</title>
       <link>http://localhost:1313/users/7ee8520d5e9eadae8557be82f46ff18d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/7ee8520d5e9eadae8557be82f46ff18d/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/7ee8520d5e9eadae8557be82f46ff18d/feature.webp" />
@@ -235,7 +235,7 @@
       <title>blastomussa.dev</title>
       <link>http://localhost:1313/users/4ea7eb30d575afb5183b02f31a661c42/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/4ea7eb30d575afb5183b02f31a661c42/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/4ea7eb30d575afb5183b02f31a661c42/feature.webp" />
@@ -245,7 +245,7 @@
       <title>Series</title>
       <link>http://localhost:1313/docs/series/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/docs/series/</guid>
       <description>&lt;p&gt;Blowfish provides a feature to group a set of articles together under a &amp;ldquo;series&amp;rdquo;. Placing an article under a series will display the rest of the series articles in each single page and provide a quick way to navigate amongst them. You can see an example of this above.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/series/featured.svg" />
@@ -255,7 +255,7 @@
       <title>Advanced Customisation</title>
       <link>http://localhost:1313/docs/advanced-customisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/docs/advanced-customisation/</guid>
       <description>&lt;p&gt;There are many ways you can make advanced changes to Blowfish. Read below to learn more about what can be customised and the best way of achieving your desired result.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/advanced-customisation/featured.svg" />
@@ -265,7 +265,7 @@
       <title>cdell.io</title>
       <link>http://localhost:1313/users/db20512c1ee8daab423ea18268cb5910/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/db20512c1ee8daab423ea18268cb5910/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/db20512c1ee8daab423ea18268cb5910/feature.webp" />
@@ -275,7 +275,7 @@
       <title>Hosting &amp; Deployment</title>
       <link>http://localhost:1313/docs/hosting-deployment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/docs/hosting-deployment/</guid>
       <description>&lt;p&gt;There are many ways to deploy your Hugo website built with Blowfish. The theme is designed to be flexible in almost any deployment scenario.&lt;/p&gt;&#xA;&lt;p&gt;Blowfish is built using relative URLs throughout the theme. This enables sites to easily be deployed to sub-folders and hosts like GitHub Pages. There&amp;rsquo;s usually no special configuration required for this to work as long as the &lt;code&gt;baseURL&lt;/code&gt; parameter has been configured in the &lt;code&gt;hugo.toml&lt;/code&gt; file.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/hosting-deployment/featured.svg" />
@@ -285,7 +285,7 @@
       <title>jam.dsg.li</title>
       <link>http://localhost:1313/users/ee5d5eca13c3742f7a454a52424f9d73/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/ee5d5eca13c3742f7a454a52424f9d73/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/ee5d5eca13c3742f7a454a52424f9d73/feature.webp" />
@@ -295,7 +295,7 @@
       <title>Firebase: Views &amp; Likes</title>
       <link>http://localhost:1313/docs/firebase-views/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/docs/firebase-views/</guid>
       <description>&lt;p&gt;In order to be able to support dynamic data across your website we&amp;rsquo;ve added the support to integrate Firebase. This will allow you to use the views feature across lists and posts.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/firebase-views/featured.svg" />
@@ -305,7 +305,7 @@
       <title>priyakdey.com</title>
       <link>http://localhost:1313/users/72d71e304faaa40b3d547d5357edc450/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/72d71e304faaa40b3d547d5357edc450/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/72d71e304faaa40b3d547d5357edc450/feature.webp" />
@@ -315,7 +315,7 @@
       <title>sdehm.dev</title>
       <link>http://localhost:1313/users/1a882ded73613252bb07c2c13f40b9e3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/1a882ded73613252bb07c2c13f40b9e3/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/1a882ded73613252bb07c2c13f40b9e3/feature.webp" />
@@ -325,7 +325,7 @@
       <title>dizzytech.de</title>
       <link>http://localhost:1313/users/039ca94b0aeeb9ab4c95226615bfb840/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/039ca94b0aeeb9ab4c95226615bfb840/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/039ca94b0aeeb9ab4c95226615bfb840/feature.webp" />
@@ -335,7 +335,7 @@
       <title>alejandro-ao.com</title>
       <link>http://localhost:1313/users/620af4c12a7ee8932fadb45ae52bba7e/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/620af4c12a7ee8932fadb45ae52bba7e/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/620af4c12a7ee8932fadb45ae52bba7e/feature.webp" />
@@ -345,7 +345,7 @@
       <title>adir1.com</title>
       <link>http://localhost:1313/users/64faf41f22317a170125dd7b2cd642e2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/64faf41f22317a170125dd7b2cd642e2/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/64faf41f22317a170125dd7b2cd642e2/feature.webp" />
@@ -355,7 +355,7 @@
       <title>blog.muffn.io</title>
       <link>http://localhost:1313/users/e07582d573aa187c3c15bb042872ca4a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/e07582d573aa187c3c15bb042872ca4a/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/e07582d573aa187c3c15bb042872ca4a/feature.webp" />
@@ -365,7 +365,7 @@
       <title>nick.bouwhuis.net</title>
       <link>http://localhost:1313/users/fd12be5b9c01f6b6089b8b1cbff1350d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/fd12be5b9c01f6b6089b8b1cbff1350d/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/fd12be5b9c01f6b6089b8b1cbff1350d/feature.webp" />
@@ -375,7 +375,7 @@
       <title>vividscc.com</title>
       <link>http://localhost:1313/users/3bfa5ccb77cf79199527df4c0259d0dc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/3bfa5ccb77cf79199527df4c0259d0dc/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/3bfa5ccb77cf79199527df4c0259d0dc/feature.webp" />
@@ -385,7 +385,7 @@
       <title>mariuskimmina.com</title>
       <link>http://localhost:1313/users/9327a7a2a271822354f23963b0557368/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/9327a7a2a271822354f23963b0557368/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/9327a7a2a271822354f23963b0557368/feature.webp" />
@@ -395,7 +395,7 @@
       <title>technicat.com</title>
       <link>http://localhost:1313/users/6ed0dcb17b6e24c166f7da0bdfb0c1f5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/6ed0dcb17b6e24c166f7da0bdfb0c1f5/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/6ed0dcb17b6e24c166f7da0bdfb0c1f5/feature.webp" />
@@ -405,7 +405,7 @@
       <title>fugugames.com</title>
       <link>http://localhost:1313/users/e2ca3d6494c32151235beabe7567b23d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/e2ca3d6494c32151235beabe7567b23d/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/e2ca3d6494c32151235beabe7567b23d/feature.webp" />
@@ -415,7 +415,7 @@
       <title>hyperbowl3d.com</title>
       <link>http://localhost:1313/users/129162dc71b9d40ee7948e51910d415a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/129162dc71b9d40ee7948e51910d415a/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/129162dc71b9d40ee7948e51910d415a/feature.webp" />
@@ -425,7 +425,7 @@
       <title>talkdimsum.com</title>
       <link>http://localhost:1313/users/80d4420e686d5a055bab647fa03d281b/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/80d4420e686d5a055bab647fa03d281b/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/80d4420e686d5a055bab647fa03d281b/feature.webp" />
@@ -435,7 +435,7 @@
       <title>alanctanner.com</title>
       <link>http://localhost:1313/users/8168c3eeb157c9c9b1ca287393393f9c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/8168c3eeb157c9c9b1ca287393393f9c/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/8168c3eeb157c9c9b1ca287393393f9c/feature.webp" />
@@ -445,7 +445,7 @@
       <title>rdgo.dev</title>
       <link>http://localhost:1313/users/98f15180691d43fbfcbaf685e1b9ab06/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/98f15180691d43fbfcbaf685e1b9ab06/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/98f15180691d43fbfcbaf685e1b9ab06/feature.webp" />
@@ -455,7 +455,7 @@
       <title>clemsau.com</title>
       <link>http://localhost:1313/users/66a61706d45b77b559869cd1247fe8fc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/66a61706d45b77b559869cd1247fe8fc/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/66a61706d45b77b559869cd1247fe8fc/feature.webp" />
@@ -465,7 +465,7 @@
       <title>weaxsey.org</title>
       <link>http://localhost:1313/users/5801e67070cd59e592c82693a1bda773/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/5801e67070cd59e592c82693a1bda773/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/5801e67070cd59e592c82693a1bda773/feature.webp" />
@@ -475,7 +475,7 @@
       <title>nikarashihatsu.github.io</title>
       <link>http://localhost:1313/users/c7116358255c4f5ccb306f7012306e22/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/c7116358255c4f5ccb306f7012306e22/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/c7116358255c4f5ccb306f7012306e22/feature.webp" />
@@ -485,7 +485,7 @@
       <title>halcyonstraits.com</title>
       <link>http://localhost:1313/users/d8ebb1396d8c7d2233b33a6b3ca0adc4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/d8ebb1396d8c7d2233b33a6b3ca0adc4/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/d8ebb1396d8c7d2233b33a6b3ca0adc4/feature.webp" />
@@ -495,7 +495,7 @@
       <title>50-nuances-octets.fr</title>
       <link>http://localhost:1313/users/24577d47b9474b6bc72eba9a6009dba4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/24577d47b9474b6bc72eba9a6009dba4/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/24577d47b9474b6bc72eba9a6009dba4/feature.webp" />
@@ -505,7 +505,7 @@
       <title>marupanda.art/marucomics</title>
       <link>http://localhost:1313/users/6e0c28f8b70015dd35f332d927960d06/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/6e0c28f8b70015dd35f332d927960d06/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/6e0c28f8b70015dd35f332d927960d06/feature.webp" />
@@ -515,7 +515,7 @@
       <title>m3upt.com</title>
       <link>http://localhost:1313/users/4d4fb24dca11a144122fa0bb831d9d03/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/4d4fb24dca11a144122fa0bb831d9d03/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/4d4fb24dca11a144122fa0bb831d9d03/feature.webp" />
@@ -525,7 +525,7 @@
       <title>pacochan.net</title>
       <link>http://localhost:1313/users/c8eb3ba4d0e565e041ead9aabe6fc770/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/c8eb3ba4d0e565e041ead9aabe6fc770/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/c8eb3ba4d0e565e041ead9aabe6fc770/feature.webp" />
@@ -535,7 +535,7 @@
       <title>vkmki001.github.io</title>
       <link>http://localhost:1313/users/069e8f01e7ef48830ebea5239e2189b4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/069e8f01e7ef48830ebea5239e2189b4/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/069e8f01e7ef48830ebea5239e2189b4/feature.webp" />
@@ -545,7 +545,7 @@
       <title>bbagwang.com</title>
       <link>http://localhost:1313/users/43d57d92cc54037519270a0cb07dbb83/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/43d57d92cc54037519270a0cb07dbb83/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/43d57d92cc54037519270a0cb07dbb83/feature.webp" />
@@ -555,7 +555,7 @@
       <title>jamiemoxon.tech</title>
       <link>http://localhost:1313/users/d9e559aaa0c3488012725cc4699ff9c4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/d9e559aaa0c3488012725cc4699ff9c4/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/d9e559aaa0c3488012725cc4699ff9c4/feature.webp" />
@@ -565,7 +565,7 @@
       <title>theindiecoder.cloud</title>
       <link>http://localhost:1313/users/9eed597b03512bc7b7b4b3cf81814a37/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/9eed597b03512bc7b7b4b3cf81814a37/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/9eed597b03512bc7b7b4b3cf81814a37/feature.webp" />
@@ -575,7 +575,7 @@
       <title>gma.name</title>
       <link>http://localhost:1313/users/48ff442c7de299911eab10b72b02cc84/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/48ff442c7de299911eab10b72b02cc84/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/48ff442c7de299911eab10b72b02cc84/feature.webp" />
@@ -585,7 +585,7 @@
       <title>mayer.life</title>
       <link>http://localhost:1313/users/1b3c507d9cd618565898e6d099c0427d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/1b3c507d9cd618565898e6d099c0427d/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/1b3c507d9cd618565898e6d099c0427d/feature.webp" />
@@ -595,7 +595,7 @@
       <title>scottmckendry.tech</title>
       <link>http://localhost:1313/users/d6d2aa4cd9e351e749136df67a27c136/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/d6d2aa4cd9e351e749136df67a27c136/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/d6d2aa4cd9e351e749136df67a27c136/feature.webp" />
@@ -605,7 +605,7 @@
       <title>ohdmire.github.io</title>
       <link>http://localhost:1313/users/fec44f5dd2be29e37c305696d018f99f/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/fec44f5dd2be29e37c305696d018f99f/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/fec44f5dd2be29e37c305696d018f99f/feature.webp" />
@@ -615,7 +615,7 @@
       <title>ricklan.photography</title>
       <link>http://localhost:1313/users/954584ca9b811d77ac600cf7c426be45/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/954584ca9b811d77ac600cf7c426be45/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/954584ca9b811d77ac600cf7c426be45/feature.webp" />
@@ -625,7 +625,7 @@
       <title>deepumohan.com/tech</title>
       <link>http://localhost:1313/users/8032d46bf9c96ae4b59c419032c7ad89/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/8032d46bf9c96ae4b59c419032c7ad89/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/8032d46bf9c96ae4b59c419032c7ad89/feature.webp" />
@@ -635,7 +635,7 @@
       <title>joush007.github.io</title>
       <link>http://localhost:1313/users/b66472425d53d4e270e85ba4f160e7a1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/b66472425d53d4e270e85ba4f160e7a1/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/b66472425d53d4e270e85ba4f160e7a1/feature.webp" />
@@ -645,7 +645,7 @@
       <title>blog.stonegarden.dev</title>
       <link>http://localhost:1313/users/3ec093539269bc4ce9498fe9c36a2b7d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/3ec093539269bc4ce9498fe9c36a2b7d/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/3ec093539269bc4ce9498fe9c36a2b7d/feature.webp" />
@@ -655,7 +655,7 @@
       <title>renaud.warnotte.be</title>
       <link>http://localhost:1313/users/4f0c88168fb7a348b4393a56ede2e799/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/4f0c88168fb7a348b4393a56ede2e799/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/4f0c88168fb7a348b4393a56ede2e799/feature.webp" />
@@ -665,7 +665,7 @@
       <title>BoringTech.net</title>
       <link>http://localhost:1313/users/82b432ad2bfc873ec725001f0b3ac495/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/82b432ad2bfc873ec725001f0b3ac495/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/82b432ad2bfc873ec725001f0b3ac495/feature.webp" />
@@ -675,7 +675,7 @@
       <title>technicaldc.github.io</title>
       <link>http://localhost:1313/users/6a603c5d465ecb2422ed7a96fd55c99c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/6a603c5d465ecb2422ed7a96fd55c99c/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/6a603c5d465ecb2422ed7a96fd55c99c/feature.webp" />
@@ -685,7 +685,7 @@
       <title>alxhslm.github.io</title>
       <link>http://localhost:1313/users/427cec3309be77abe6f19b006b2a3dc0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/427cec3309be77abe6f19b006b2a3dc0/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/427cec3309be77abe6f19b006b2a3dc0/feature.webp" />
@@ -695,7 +695,7 @@
       <title>the-maze.net</title>
       <link>http://localhost:1313/users/e518dc969af1ea65a3d0b55630705047/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/e518dc969af1ea65a3d0b55630705047/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/e518dc969af1ea65a3d0b55630705047/feature.webp" />
@@ -705,7 +705,7 @@
       <title>DXPetti.com</title>
       <link>http://localhost:1313/users/0327ac1993f378aa2fc5bbb8a840c9cb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/0327ac1993f378aa2fc5bbb8a840c9cb/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/0327ac1993f378aa2fc5bbb8a840c9cb/feature.webp" />
@@ -715,7 +715,7 @@
       <title>asterisk.lol</title>
       <link>http://localhost:1313/users/6e57b74d392f64f3698aee7046cc2606/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/6e57b74d392f64f3698aee7046cc2606/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/6e57b74d392f64f3698aee7046cc2606/feature.webp" />
@@ -725,7 +725,7 @@
       <title>ekwska.com</title>
       <link>http://localhost:1313/users/1314bf3d7ce70ad90f1fc7666032e147/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/1314bf3d7ce70ad90f1fc7666032e147/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/1314bf3d7ce70ad90f1fc7666032e147/feature.webp" />
@@ -735,7 +735,7 @@
       <title>todreamr.github.io</title>
       <link>http://localhost:1313/users/1f88d7c1e8e83b761f84b38daaa8016d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/1f88d7c1e8e83b761f84b38daaa8016d/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/1f88d7c1e8e83b761f84b38daaa8016d/feature.webp" />
@@ -745,7 +745,7 @@
       <title>aakashnand.com</title>
       <link>http://localhost:1313/users/a322d57671bf49fe0f2539096f9ed57f/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/a322d57671bf49fe0f2539096f9ed57f/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/a322d57671bf49fe0f2539096f9ed57f/feature.webp" />
@@ -755,7 +755,7 @@
       <title>innerknowing</title>
       <link>http://localhost:1313/users/1a328ae325c5da884a5b15a1b4d4a446/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/1a328ae325c5da884a5b15a1b4d4a446/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/1a328ae325c5da884a5b15a1b4d4a446/feature.webp" />
@@ -765,7 +765,7 @@
       <title>karlukle.site</title>
       <link>http://localhost:1313/users/7d028665dc1cf54485e6e82a7083ce69/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/7d028665dc1cf54485e6e82a7083ce69/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/7d028665dc1cf54485e6e82a7083ce69/feature.webp" />
@@ -775,7 +775,7 @@
       <title>Adam Madej - Gameplay Animator</title>
       <link>http://localhost:1313/users/15cf92fba36f0319bd4b176da554fdb9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/15cf92fba36f0319bd4b176da554fdb9/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/15cf92fba36f0319bd4b176da554fdb9/feature.webp" />
@@ -785,7 +785,7 @@
       <title>eallion.com</title>
       <link>http://localhost:1313/users/1f94add7b0ba58983ff507632b822401/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/1f94add7b0ba58983ff507632b822401/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/1f94add7b0ba58983ff507632b822401/feature.webp" />
@@ -795,7 +795,7 @@
       <title>Synaptic Sugar</title>
       <link>http://localhost:1313/users/c0d9928ff3857960ec230178bdec1b8d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/c0d9928ff3857960ec230178bdec1b8d/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/c0d9928ff3857960ec230178bdec1b8d/feature.webp" />
@@ -805,7 +805,7 @@
       <title>michaeldorner.de</title>
       <link>http://localhost:1313/users/d965f981aa39336ef7be5efac83c96b2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/d965f981aa39336ef7be5efac83c96b2/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/d965f981aa39336ef7be5efac83c96b2/feature.webp" />
@@ -815,7 +815,7 @@
       <title>Ignacio Conde</title>
       <link>http://localhost:1313/users/4de384e83ae8af3834cad28f6dfc6966/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/4de384e83ae8af3834cad28f6dfc6966/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/4de384e83ae8af3834cad28f6dfc6966/feature.webp" />
@@ -825,7 +825,7 @@
       <title>Beauty Formulation</title>
       <link>http://localhost:1313/users/04bb53c19a5a817c1a0630b65260909d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/04bb53c19a5a817c1a0630b65260909d/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/04bb53c19a5a817c1a0630b65260909d/feature.webp" />
@@ -835,7 +835,7 @@
       <title>Middle of Nowhere</title>
       <link>http://localhost:1313/users/4b8c5f7ee72baf8411dae867f9206b63/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/4b8c5f7ee72baf8411dae867f9206b63/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/4b8c5f7ee72baf8411dae867f9206b63/feature.webp" />
@@ -845,7 +845,7 @@
       <title>UmmIt - Blog</title>
       <link>http://localhost:1313/users/c506ded8078df151fc8ce943e7ac1c8a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/c506ded8078df151fc8ce943e7ac1c8a/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/c506ded8078df151fc8ce943e7ac1c8a/feature.webp" />
@@ -855,7 +855,7 @@
       <title>nveshaan</title>
       <link>http://localhost:1313/users/02c452502ee9a03866c720c14bf86f9e/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/02c452502ee9a03866c720c14bf86f9e/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/02c452502ee9a03866c720c14bf86f9e/feature.webp" />
@@ -865,7 +865,7 @@
       <title>kumacat.pages.dev</title>
       <link>http://localhost:1313/users/d52c3523ad809eb1d9ddbcbe32e92661/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/d52c3523ad809eb1d9ddbcbe32e92661/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/d52c3523ad809eb1d9ddbcbe32e92661/feature.webp" />
@@ -875,7 +875,7 @@
       <title>andrealucchini.com</title>
       <link>http://localhost:1313/users/bdd6b2db27fb40b3fa79a37659b2f285/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/bdd6b2db27fb40b3fa79a37659b2f285/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/bdd6b2db27fb40b3fa79a37659b2f285/feature.webp" />
@@ -885,7 +885,7 @@
       <title>glomyer.dev</title>
       <link>http://localhost:1313/users/af89464ac25ab9445658a3541e623778/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/af89464ac25ab9445658a3541e623778/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/af89464ac25ab9445658a3541e623778/feature.webp" />
@@ -895,7 +895,7 @@
       <title>utrodus.com</title>
       <link>http://localhost:1313/users/c562b0e606584dd96159faf763291fe1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/c562b0e606584dd96159faf763291fe1/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/c562b0e606584dd96159faf763291fe1/feature.webp" />
@@ -905,7 +905,7 @@
       <title>lazarusoverlook.com</title>
       <link>http://localhost:1313/users/033c87b7e950b82ea500c552c9523367/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/033c87b7e950b82ea500c552c9523367/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/033c87b7e950b82ea500c552c9523367/feature.webp" />
@@ -915,7 +915,7 @@
       <title>p3rception.github.io</title>
       <link>http://localhost:1313/users/7596a225b244e0859da338621e680481/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/7596a225b244e0859da338621e680481/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/7596a225b244e0859da338621e680481/feature.webp" />
@@ -925,7 +925,7 @@
       <title>Handbook on Teaching Empirical Software Engineering: Online Materials</title>
       <link>http://localhost:1313/users/54b73306674ec7e6778b54a0a8b18b36/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/54b73306674ec7e6778b54a0a8b18b36/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/54b73306674ec7e6778b54a0a8b18b36/feature.webp" />
@@ -935,7 +935,7 @@
       <title>blog.lofibean.cc</title>
       <link>http://localhost:1313/users/ad989702a19d1fd8add147d6771c6c02/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/ad989702a19d1fd8add147d6771c6c02/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/ad989702a19d1fd8add147d6771c6c02/feature.webp" />
@@ -945,7 +945,7 @@
       <title>Academy Customize</title>
       <link>http://localhost:1313/users/e263f9bb6dcec27003a8f5f947ba5abb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/e263f9bb6dcec27003a8f5f947ba5abb/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/e263f9bb6dcec27003a8f5f947ba5abb/feature.webp" />
@@ -955,7 +955,7 @@
       <title>mrtruongvu.com</title>
       <link>http://localhost:1313/users/837b47128639b5359ade845eae461c3a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/837b47128639b5359ade845eae461c3a/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/837b47128639b5359ade845eae461c3a/feature.webp" />
@@ -965,7 +965,7 @@
       <title>StepaniaH</title>
       <link>http://localhost:1313/users/1b3da762734b4fb503e49822ed506dbb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/1b3da762734b4fb503e49822ed506dbb/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/1b3da762734b4fb503e49822ed506dbb/feature.webp" />
@@ -975,7 +975,7 @@
       <title>Laterre Dev</title>
       <link>http://localhost:1313/users/447e2f0f6f439b915e0b57f93e49b7d6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/447e2f0f6f439b915e0b57f93e49b7d6/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/447e2f0f6f439b915e0b57f93e49b7d6/feature.webp" />
@@ -985,7 +985,7 @@
       <title>WillHack - service for reality hackers</title>
       <link>http://localhost:1313/users/8a994f70010fa98dac2838ddd246224e/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/8a994f70010fa98dac2838ddd246224e/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/8a994f70010fa98dac2838ddd246224e/feature.webp" />
@@ -995,7 +995,7 @@
       <title>Lazy Product Reviews</title>
       <link>http://localhost:1313/users/3fa4eb553f5d984050d2ee4954960034/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/3fa4eb553f5d984050d2ee4954960034/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/3fa4eb553f5d984050d2ee4954960034/feature.webp" />
@@ -1005,7 +1005,7 @@
       <title>zzzhome</title>
       <link>http://localhost:1313/users/46ea5d4b3698fa18fc0b79faa3d89bef/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/46ea5d4b3698fa18fc0b79faa3d89bef/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/46ea5d4b3698fa18fc0b79faa3d89bef/feature.webp" />
@@ -1015,7 +1015,7 @@
       <title>Bootleg Coal Rebellion</title>
       <link>http://localhost:1313/users/915a897f2ea3ba018728d7dce3540b1b/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/915a897f2ea3ba018728d7dce3540b1b/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/915a897f2ea3ba018728d7dce3540b1b/feature.webp" />
@@ -1025,7 +1025,7 @@
       <title>Chill-Try</title>
       <link>http://localhost:1313/users/0805e986c2f7265e3bbbfc7bc647ed92/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/0805e986c2f7265e3bbbfc7bc647ed92/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/0805e986c2f7265e3bbbfc7bc647ed92/feature.webp" />
@@ -1035,7 +1035,7 @@
       <title>Hudson McNamara</title>
       <link>http://localhost:1313/users/2d29fadfaf8ddfaee0b69b563bae8d2d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/2d29fadfaf8ddfaee0b69b563bae8d2d/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/2d29fadfaf8ddfaee0b69b563bae8d2d/feature.webp" />
@@ -1045,7 +1045,7 @@
       <title>Weg um Weg</title>
       <link>http://localhost:1313/users/eb23ebd26738c98db323eff207dc7c0e/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/eb23ebd26738c98db323eff207dc7c0e/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/eb23ebd26738c98db323eff207dc7c0e/feature.webp" />
@@ -1055,7 +1055,7 @@
       <title>The Space 🌍</title>
       <link>http://localhost:1313/users/706590b7d6a58b77f0eadb22b1dc6cd5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/706590b7d6a58b77f0eadb22b1dc6cd5/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/706590b7d6a58b77f0eadb22b1dc6cd5/feature.webp" />
@@ -1065,7 +1065,7 @@
       <title>Adri Antunez&#39;s Cloud Site</title>
       <link>http://localhost:1313/users/6057b72b4986ae88640d46262a4be0a0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/6057b72b4986ae88640d46262a4be0a0/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/6057b72b4986ae88640d46262a4be0a0/feature.webp" />
@@ -1075,7 +1075,7 @@
       <title>irusukan</title>
       <link>http://localhost:1313/users/e3f304eacd2f79e31f294cae0ff8162e/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/e3f304eacd2f79e31f294cae0ff8162e/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/e3f304eacd2f79e31f294cae0ff8162e/feature.webp" />
@@ -1085,7 +1085,7 @@
       <title>FEEC/UNICAMP IA382 - Seminar in Computer Engineering</title>
       <link>http://localhost:1313/users/405727a6fae1350173ef8915b4c9eb7d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/405727a6fae1350173ef8915b4c9eb7d/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/405727a6fae1350173ef8915b4c9eb7d/feature.webp" />
@@ -1095,7 +1095,7 @@
       <title>blog.francescopapini.com</title>
       <link>http://localhost:1313/users/a615163aad4c6bb5746a697a9450d563/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/a615163aad4c6bb5746a697a9450d563/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/a615163aad4c6bb5746a697a9450d563/feature.webp" />
@@ -1105,7 +1105,7 @@
       <title>Kyo&#39;s Garden</title>
       <link>http://localhost:1313/users/9d162f4046cb83c367d8d8ab57240711/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/9d162f4046cb83c367d8d8ab57240711/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/9d162f4046cb83c367d8d8ab57240711/feature.webp" />
@@ -1115,7 +1115,7 @@
       <title>abantikabhuti.github.io</title>
       <link>http://localhost:1313/users/7c98d8b7ba531e032abcd675d4f49c17/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/7c98d8b7ba531e032abcd675d4f49c17/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/7c98d8b7ba531e032abcd675d4f49c17/feature.webp" />
@@ -1125,7 +1125,7 @@
       <title>yag0x1.github.io</title>
       <link>http://localhost:1313/users/e4f1c9a4c352ea63707824576d889c8f/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/e4f1c9a4c352ea63707824576d889c8f/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/e4f1c9a4c352ea63707824576d889c8f/feature.webp" />
@@ -1135,7 +1135,7 @@
       <title>Learn-Software.com</title>
       <link>http://localhost:1313/users/512ff0768813ae318d569f681cf49123/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/512ff0768813ae318d569f681cf49123/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/512ff0768813ae318d569f681cf49123/feature.webp" />
@@ -1145,7 +1145,7 @@
       <title>mitri.lol</title>
       <link>http://localhost:1313/users/8cb20b5823049623e2b7214c967a2efc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/8cb20b5823049623e2b7214c967a2efc/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/8cb20b5823049623e2b7214c967a2efc/feature.webp" />
@@ -1155,7 +1155,7 @@
       <title>kieranlowe.io</title>
       <link>http://localhost:1313/users/b94f03ec7b2e6d8dbac26fa6cd1cd5d4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/b94f03ec7b2e6d8dbac26fa6cd1cd5d4/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/b94f03ec7b2e6d8dbac26fa6cd1cd5d4/feature.webp" />
@@ -1165,7 +1165,7 @@
       <title>eike.in</title>
       <link>http://localhost:1313/users/c3df142090b1a28ef311312eb82f1e51/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/c3df142090b1a28ef311312eb82f1e51/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/c3df142090b1a28ef311312eb82f1e51/feature.webp" />
@@ -1175,7 +1175,7 @@
       <title>Dan Davidson | Where Crypto, Charts and Curiosity Collide</title>
       <link>http://localhost:1313/users/1df80cd79049e547a9053f2b3b4f688b/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/1df80cd79049e547a9053f2b3b4f688b/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/1df80cd79049e547a9053f2b3b4f688b/feature.webp" />
@@ -1185,7 +1185,7 @@
       <title>tbsch.de | Smart Home, Technik, Kram</title>
       <link>http://localhost:1313/users/6439a010a72c2622487a063185cf1657/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/6439a010a72c2622487a063185cf1657/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/6439a010a72c2622487a063185cf1657/feature.webp" />
@@ -1195,7 +1195,7 @@
       <title>metalhearf.fr</title>
       <link>http://localhost:1313/users/16a262b9921c2d90b4bc072bbb3c1d56/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/16a262b9921c2d90b4bc072bbb3c1d56/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/16a262b9921c2d90b4bc072bbb3c1d56/feature.webp" />
@@ -1205,7 +1205,7 @@
       <title>encelo.github.io</title>
       <link>http://localhost:1313/users/a8ae3ddde64e0cd053837877522e2373/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/a8ae3ddde64e0cd053837877522e2373/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/a8ae3ddde64e0cd053837877522e2373/feature.webp" />
@@ -1215,7 +1215,7 @@
       <title>ncine.github.io</title>
       <link>http://localhost:1313/users/8f0822721042bca88707da31b1c241e3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/8f0822721042bca88707da31b1c241e3/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/8f0822721042bca88707da31b1c241e3/feature.webp" />
@@ -1225,7 +1225,7 @@
       <title>István Merza</title>
       <link>http://localhost:1313/users/f430dff82b8fbb8334091953bfe58598/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/f430dff82b8fbb8334091953bfe58598/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/f430dff82b8fbb8334091953bfe58598/feature.webp" />
@@ -1235,7 +1235,7 @@
       <title>daytaur.com</title>
       <link>http://localhost:1313/users/a8326fb0e2d1670165af1c6547b239dd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/a8326fb0e2d1670165af1c6547b239dd/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/a8326fb0e2d1670165af1c6547b239dd/feature.webp" />
@@ -1245,7 +1245,7 @@
       <title>zzamboni.org</title>
       <link>http://localhost:1313/users/e2d4a1e205128436961ad3e1f2d0de5e/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/e2d4a1e205128436961ad3e1f2d0de5e/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/e2d4a1e205128436961ad3e1f2d0de5e/feature.webp" />
@@ -1255,7 +1255,7 @@
       <title>Tower of Kubes</title>
       <link>http://localhost:1313/users/43b666016e50920826ef05ae95486724/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/43b666016e50920826ef05ae95486724/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/43b666016e50920826ef05ae95486724/feature.webp" />
@@ -1265,7 +1265,7 @@
       <title>monpetitdev.fr</title>
       <link>http://localhost:1313/users/d168a95bef76f9306c5f0d645168f8e6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/d168a95bef76f9306c5f0d645168f8e6/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/d168a95bef76f9306c5f0d645168f8e6/feature.webp" />
@@ -1275,7 +1275,7 @@
       <title>Noor Khafidzin</title>
       <link>http://localhost:1313/users/e7ef7b552aa65b10f3e26de21d81f702/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/users/e7ef7b552aa65b10f3e26de21d81f702/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/e7ef7b552aa65b10f3e26de21d81f702/feature.webp" />
@@ -1285,7 +1285,7 @@
       <title>Hello World</title>
       <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Tue, 06 Jan 2026 12:30:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/posts/hello-world/</guid>
       <description>&lt;p&gt;Welcome to your new Hugo site using the Blowfish theme.&lt;/p&gt;&#xA;&lt;p&gt;This is a working sample post.&lt;/p&gt;</description>
       
@@ -1295,7 +1295,7 @@
       <title>Welcome - Sample Post</title>
       <link>http://localhost:1313/posts/sample-post/</link>
       <pubDate>Tue, 06 Jan 2026 12:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/posts/sample-post/</guid>
       <description>&lt;p&gt;This is a sample post to verify the Blowfish theme is working.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Built with Hugo and the Blowfish theme.&lt;/li&gt;&#xA;&lt;li&gt;Replace this content with your own posts.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
       
@@ -1305,7 +1305,7 @@
       <title>Build your homepage using Blowfish and Hugo</title>
       <link>http://localhost:1313/guides/202310-blowfish-tutorial/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/guides/202310-blowfish-tutorial/</guid>
       <description>Just one year ago, I created Blowfish, a Hugo theme crafted to build my unique vision for my personal homepage. I also decided to make it an open-source project. Fast-forward to today, and Blowfish has transformed into a thriving open-source project with over 600 stars on GitHub and a user base of hundreds. In this tutorial, I’ll show you how to get started and have your website running in a couple of minutes.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/202310-blowfish-tutorial/featured.jpg" />
@@ -1315,7 +1315,7 @@
       <title>Multiple Authors</title>
       <link>http://localhost:1313/samples/multiple-authors/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/samples/multiple-authors/</guid>
       <description>A quick example of how multiple authors could be used.</description>
       
@@ -1325,7 +1325,7 @@
       <title>Thumbnails</title>
       <link>http://localhost:1313/samples/thumbnail_sample/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/samples/thumbnail_sample/</guid>
       <description>A quick example of how to start using Thumbnails in your artciles.</description>
       
@@ -1335,7 +1335,7 @@
       <title>Icons</title>
       <link>http://localhost:1313/samples/icons/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/samples/icons/</guid>
       <description>&lt;p&gt;Blowfish has built-in support for a number of &lt;a href=&#34;https://fontawesome.com/icons&#34;  target=&#34;_blank&#34;&gt;FontAwesome 6&lt;/a&gt; icons. These can be included in your website through either the &lt;a href=&#34;http://localhost:1313/docs/partials/#icon&#34; &gt;icon partial&lt;/a&gt; or &lt;a href=&#34;http://localhost:1313/docs/shortcodes/#icon&#34; &gt;icon shortcode&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Additionally, custom icons are also fully supported. Simply provide your own SVG icon assets by placing them in the &lt;code&gt;assets/icons/&lt;/code&gt; directory in the root of your project. Any icons in the icons directory will then be available to use throughout the theme. In order to achieve automatic color filling, every SVG path needs the &lt;code&gt;fill=&amp;quot;currentColor&amp;quot;&lt;/code&gt; XML attribute.&lt;/p&gt;</description>
       
@@ -1345,7 +1345,7 @@
       <title>Markdown</title>
       <link>http://localhost:1313/samples/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/samples/markdown/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown formatting that can be used in Blowfish, also it shows how some basic HTML elements are decorated.&lt;/p&gt;</description>
       
@@ -1355,7 +1355,7 @@
       <title>Rich Content</title>
       <link>http://localhost:1313/samples/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/samples/rich-content/</guid>
       <description>This is an &lt;em&gt;example&lt;/em&gt; of a &lt;strong&gt;rich&lt;/strong&gt; content summary.</description>
       
@@ -1365,7 +1365,7 @@
       <title>Placeholder Text</title>
       <link>http://localhost:1313/samples/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/samples/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
       
@@ -1375,7 +1375,7 @@
       <title>Mathematical notation</title>
       <link>http://localhost:1313/samples/mathematical-notation/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/samples/mathematical-notation/</guid>
       <description>&lt;p&gt;KaTeX can be used to render mathematical notation within articles.&lt;/p&gt;</description>
       
@@ -1385,7 +1385,7 @@
       <title>Charts</title>
       <link>http://localhost:1313/samples/charts/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/samples/charts/</guid>
       <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
       
@@ -1395,7 +1395,7 @@
       <title>Diagrams and Flowcharts</title>
       <link>http://localhost:1313/samples/diagrams-flowcharts/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/samples/diagrams-flowcharts/</guid>
       <description>It&amp;rsquo;s easy to add diagrams and flowcharts to articles using Mermaid.</description>
       
@@ -1405,7 +1405,7 @@
       <title>Emoji :parachute:</title>
       <link>http://localhost:1313/samples/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/samples/emoji/</guid>
       <description>📖🏞️🧗🏽🐉🧙🏽‍♂️🧚🏽👸</description>
       
@@ -1415,7 +1415,7 @@
       <title>Recipe Template</title>
       <link>http://localhost:1313/guides/template/</link>
       <pubDate>Tue, 22 Dec 1987 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/guides/template/</guid>
       <description>&lt;p&gt;Thank you for wanting to contribute to Blowfish&amp;rsquo;s community.&lt;/p&gt;&#xA;&#xD;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;How to start?&#xD;&#xA;    &lt;div id=&#34;how-to-start&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#how-to-start&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;This is a template article that will explain how to create a new article for Blowfish&amp;rsquo;s guide section.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/template/featured.jpg" />

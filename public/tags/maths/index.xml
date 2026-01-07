@@ -6,16 +6,16 @@
     <description>Recent content in Maths on River Romney</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>contact@riverromney.com (River)</managingEditor>
-    <webMaster>contact@riverromney.com (River)</webMaster>
-    <copyright>© 2026 River</copyright>
+    <managingEditor>contact@riverromney.com (River Romney)</managingEditor>
+    <webMaster>contact@riverromney.com (River Romney)</webMaster>
+    <copyright>© 2026 River Romney</copyright>
     <lastBuildDate>Fri, 08 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/maths/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mathematical notation</title>
       <link>http://localhost:1313/samples/mathematical-notation/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <author>contact@riverromney.com (River)</author>
+      <author>contact@riverromney.com (River Romney)</author>
       <guid>http://localhost:1313/samples/mathematical-notation/</guid>
       <description>&lt;p&gt;KaTeX can be used to render mathematical notation within articles.&lt;/p&gt;</description>
       

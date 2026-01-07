@@ -12,12 +12,12 @@ title = "River Romney"
   description = "Welcome to my portfolio."
 
 [params.author]
-  name = "River"
+  name = "River Romney"
   email = "contact@riverromney.com"
   image = "img/blowfish_logo.png"
   headline = "Welcome to my portfolio."
   bio = "Welcome to my portfolio."
   links = [
     { x-twitter = "https://twitter.com/burufugu" },
-    { github = "https://github.com/nunocoracao/blowfish" },
-  ]
+    { github = "https://github.com/nunocoracao/blowfish" },]
+
