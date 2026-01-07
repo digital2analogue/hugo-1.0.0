@@ -1,3 +1,24 @@
+<<<<<<< HEAD
+Blowfish Hugo Theme Setup
+
+Quick start:
+
+1. Ensure Hugo (extended) is installed. Recommended: v0.154.2 or later.
+2. In PowerShell run:
+
+```powershell
+hugo server -D
+```
+
+3. Open http://localhost:1313
+
+Notes:
+=======
+# hugo-1.0.0
+portfolio website
+>>>>>>> f8a05f7a5026aafd400addd02cd4809f3e7b2ced
+Repository: https://github.com/digital2analogue/hugo-1.0.0
+
 Blowfish Hugo Theme Setup
 
 Quick start:
@@ -15,3 +36,4 @@ Notes:
 - Theme is in `themes/blowfish`.
 - Edit `hugo.toml` to update `baseURL`, `title`, and other params.
 - Replace sample content in `content/posts` and `data/`.
+
